@@ -1,0 +1,36 @@
+
+body{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+
+}
+.cal-con{
+    width: 350px;
+    border-radius: 5px;
+    border: 1px solid black;
+    
+    
+}
+
+#display-con{
+    margin: 10px;
+    width: 85%;
+    font-size: 40px;
+    height: 50px;
+}
+
+.btn-con{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+button{
+    height: 85px;
+    width: 85px;
+    margin: 8px;
+    font-size: 30px;
+}
+
